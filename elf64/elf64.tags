@@ -5,7 +5,7 @@
       <start_offset>626</start_offset>
       <end_offset>688</end_offset>
       <tag_text>Code segment</tag_text>
-      <font_colour>#505050</font_colour>
+      <font_colour>#5050/font_colour>
       <note_colour>#FFE599</note_colour>
     </TAG>
     <TAG id="10">
